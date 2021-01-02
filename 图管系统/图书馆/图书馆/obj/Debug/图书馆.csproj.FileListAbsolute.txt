@@ -1,0 +1,15 @@
+D:\试做\ASP.NET技术开发\图管系统\图书馆\图书馆\bin\图书馆.dll
+D:\试做\ASP.NET技术开发\图管系统\图书馆\图书馆\bin\图书馆.pdb
+D:\试做\ASP.NET技术开发\图管系统\图书馆\图书馆\obj\Debug\图书馆.dll
+D:\试做\ASP.NET技术开发\图管系统\图书馆\图书馆\obj\Debug\图书馆.pdb
+D:\试做\ASP.NET技术开发\图管系统\图书馆\图书馆\obj\Debug\图书馆.csprojResolveAssemblyReference.cache
+E:\课程作业\ASP.NET技术开发\图管系统\图书馆\图书馆\bin\图书馆.dll
+E:\课程作业\ASP.NET技术开发\图管系统\图书馆\图书馆\bin\图书馆.pdb
+E:\课程作业\ASP.NET技术开发\图管系统\图书馆\图书馆\obj\Debug\图书馆.csprojResolveAssemblyReference.cache
+E:\课程作业\ASP.NET技术开发\图管系统\图书馆\图书馆\obj\Debug\图书馆.dll
+E:\课程作业\ASP.NET技术开发\图管系统\图书馆\图书馆\obj\Debug\图书馆.pdb
+C:\Users\Administrator\Desktop\图管系统\图书馆\图书馆\bin\图书馆.dll
+C:\Users\Administrator\Desktop\图管系统\图书馆\图书馆\bin\图书馆.pdb
+C:\Users\Administrator\Desktop\图管系统\图书馆\图书馆\obj\Debug\图书馆.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\图管系统\图书馆\图书馆\obj\Debug\图书馆.dll
+C:\Users\Administrator\Desktop\图管系统\图书馆\图书馆\obj\Debug\图书馆.pdb
